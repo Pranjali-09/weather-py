@@ -37,7 +37,7 @@ It uses the **WeatherAPI.com** service and works on **Windows, macOS, and Linux*
    ```
 2. Run the script
 ```bash
-python3 weather.py
+python3 main.py
 ```
 
 ## ⚙️ Configuration
